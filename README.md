@@ -39,7 +39,7 @@ cd investment-calculator
 
 ```bash
 python -m venv venv
-venv\Scripts\activate   # Windows
+env\Scripts\activate   # Windows
 # OR
 source venv/bin/activate   # macOS/Linux
 ```
