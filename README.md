@@ -11,10 +11,10 @@ An investment calculator built with **Django**, designed to help users project f
 
 ## 📸 Screenshots
 
-(![image](https://github.com/user-attachments/assets/d675b5d4-72f3-4ab7-b9de-4e548a2abc1c)
-)
-(![image](https://github.com/user-attachments/assets/64d057f1-4be7-4ff4-b4f1-71e42073b0b9)
-)
+![image](https://github.com/user-attachments/assets/d675b5d4-72f3-4ab7-b9de-4e548a2abc1c)
+
+![image](https://github.com/user-attachments/assets/64d057f1-4be7-4ff4-b4f1-71e42073b0b9)
+
 
 ## Tech Stack
 
